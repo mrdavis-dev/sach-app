@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":2,"versionName":"0.0.1.0","enabled":true,"outputFile":"test.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.mrdavis.test.go","split":"","minSdkVersion":"21"}}]

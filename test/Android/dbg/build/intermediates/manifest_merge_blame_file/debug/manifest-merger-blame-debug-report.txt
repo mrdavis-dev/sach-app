@@ -1,0 +1,228 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mrdavis.test.go"
+4    android:installLocation="auto"
+5    android:versionCode="2"
+6    android:versionName="0.0.1.0" >
+7
+8    <uses-sdk
+8-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3974-4042
+9        android:minSdkVersion="21"
+9-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3984-4010
+10        android:targetSdkVersion="30" />
+10-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4011-4040
+11
+12    <supports-screens
+12-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4042-4201
+13        android:anyDensity="true"
+13-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4174-4199
+14        android:largeScreens="true"
+14-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4117-4144
+15        android:normalScreens="true"
+15-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4088-4116
+16        android:smallScreens="true"
+16-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4060-4087
+17        android:xlargeScreens="true" />
+17-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4145-4173
+18
+19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+19-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4201-4276
+19-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4218-4274
+20    <uses-permission android:name="android.permission.INTERNET" />
+20-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4276-4337
+20-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4293-4335
+21
+22    <application
+22-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:229-3974
+23        android:name="fr.pcsoft.wdjava.core.application.WDAndroidApp"
+23-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:242-303
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:18-86
+25        android:debuggable="true"
+25-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:527-552
+26        android:icon="@drawable/icons8_coming_soon_100_0"
+26-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:337-386
+27        android:label="@string/app_name"
+27-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:304-336
+28        android:largeHeap="true"
+28-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:387-411
+29        android:requestLegacyExternalStorage="true"
+29-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:483-526
+30        android:resizeableActivity="true"
+30-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:413-446
+31        android:usesCleartextTraffic="true" >
+31-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:447-482
+32        <activity
+32-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:553-961
+33            android:name="com.mrdavis.test.wdgen.GWDPtest$WDLanceur"
+33-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:563-603
+34            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout"
+34-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:706-808
+35            android:label="@string/app_name"
+35-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:604-636
+36            android:theme="@style/Theme.AppCompat.Light.NoActionBar.Translucent" >
+36-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:637-705
+37            <intent-filter>
+37-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:809-950
+38                <action android:name="android.intent.action.MAIN" />
+38-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:824-875
+38-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:832-873
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:875-934
+40-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:885-932
+41            </intent-filter>
+42        </activity>
+43        <activity
+43-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:961-1209
+44            android:name="com.mrdavis.test.wdgen.GWDFWIN_inico$WDActiviteFenetre"
+44-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:971-1024
+45            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+45-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1025-1134
+46            android:hardwareAccelerated="false"
+46-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1172-1207
+47            android:theme="@android:style/Theme" />
+47-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1135-1171
+48        <activity
+48-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1209-1457
+49            android:name="com.mrdavis.test.wdgen.GWDFWIN_login$WDActiviteFenetre"
+49-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1219-1272
+50            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+50-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1273-1382
+51            android:hardwareAccelerated="false"
+51-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1420-1455
+52            android:theme="@android:style/Theme" />
+52-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1383-1419
+53        <activity
+53-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1457-1710
+54            android:name="com.mrdavis.test.wdgen.GWDFWIN_testselect$WDActiviteFenetre"
+54-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1467-1525
+55            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+55-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1526-1635
+56            android:hardwareAccelerated="false"
+56-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1673-1708
+57            android:theme="@android:style/Theme" />
+57-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1636-1672
+58        <activity
+58-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1710-1965
+59            android:name="com.mrdavis.test.wdgen.GWDFWIN_paginarecibo$WDActiviteFenetre"
+59-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1720-1780
+60            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+60-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1781-1890
+61            android:hardwareAccelerated="false"
+61-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1928-1963
+62            android:theme="@android:style/Theme" />
+62-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1891-1927
+63
+64        <uses-library
+64-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1965-2043
+65            android:name="org.apache.http.legacy"
+65-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1979-2016
+66            android:required="false" />
+66-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2017-2041
+67
+68        <activity
+68-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2043-2272
+69            xmlns:android="http://schemas.android.com/apk/res/android"
+69-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2053-2111
+70            android:name="fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity"
+70-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2112-2180
+71            android:theme="@style/Theme.AppCompat.Light.NoActionBar.Translucent" />
+71-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2181-2249
+72        <activity
+72-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2272-2493
+73            xmlns:android="http://schemas.android.com/apk/res/android"
+73-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2282-2340
+74            android:name="fr.pcsoft.wdjava.core.erreur.report.WDErrorReportActivity"
+74-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2341-2413
+75            android:theme="@android:style/Theme.DeviceDefault.Light" />
+75-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2414-2470
+76
+77        <provider
+77-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2493-2861
+78            xmlns:android="http://schemas.android.com/apk/res/android"
+78-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2503-2561
+79            android:name="androidx.core.content.FileProvider"
+79-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2562-2611
+80            android:authorities="com.mrdavis.test.go.fileprovider"
+80-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2612-2666
+81            android:exported="false"
+81-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2667-2691
+82            android:grantUriPermissions="true" >
+82-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2692-2726
+83            <meta-data
+83-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2748-2850
+84                android:name="android.support.FILE_PROVIDER_PATHS"
+84-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2759-2809
+85                android:resource="@xml/provider_paths" />
+85-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2810-2848
+86        </provider>
+87
+88        <receiver
+88-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2861-3059
+89            xmlns:android="http://schemas.android.com/apk/res/android"
+89-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2871-2929
+90            android:name="fr.pcsoft.wdjava.core.utils.WDAppUtils$APKInstallBroadcastReceiver"
+90-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2930-3011
+91            android:exported="false" />
+91-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3012-3036
+92
+93        <activity
+93-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3059-3424
+94            xmlns:android="http://schemas.android.com/apk/res/android"
+94-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3069-3127
+95            android:name="fr.pcsoft.wdjava.ui.searchbar.WDSearchActivity"
+95-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3128-3189
+96            android:label="@string/app_name" >
+96-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3190-3222
+97            <intent-filter>
+97-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3244-3328
+98                <action android:name="android.intent.action.SEARCH" />
+98-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3259-3312
+98-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3267-3310
+99            </intent-filter>
+100
+101            <meta-data
+101-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3328-3413
+102                android:name="android.app.searchable"
+102-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3339-3376
+103                android:resource="@xml/searchable" />
+103-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3377-3411
+104        </activity>
+105
+106        <provider
+106-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3424-3643
+107            xmlns:android="http://schemas.android.com/apk/res/android"
+107-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3434-3492
+108            android:name="fr.pcsoft.wdjava.ui.searchbar.WDSearchHistory"
+108-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3493-3553
+109            android:authorities="com.mrdavis.test.go"
+109-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3579-3620
+110            android:exported="false" />
+110-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3554-3578
+111
+112        <service android:name="fr.pcsoft.wdjava.core.service.WDServiceLocal" />
+112-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3643-3713
+112-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3652-3711
+113
+114        <meta-data
+114-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3713-3799
+115            android:name="fr.pcsoft.first_window_name"
+115-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3724-3766
+116            android:value="WIN_testselect" />
+116-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3767-3797
+117        <meta-data
+117-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3799-3879
+118            android:name="fr.pcsoft.splash_orientation_phone"
+118-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3810-3859
+119            android:value="4" />
+119-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3860-3877
+120        <meta-data
+120-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3879-3960
+121            android:name="fr.pcsoft.splash_orientation_tablet"
+121-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3890-3940
+122            android:value="4" />
+122-->D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3941-3958
+123    </application>
+124
+125</manifest>

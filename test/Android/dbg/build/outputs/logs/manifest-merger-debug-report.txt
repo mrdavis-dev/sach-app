@@ -1,0 +1,342 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1-4348
+INJECTED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1-4348
+INJECTED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1-4348
+INJECTED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1-4348
+MERGED from [WD260Android.aar] C:\Users\david\.gradle\caches\transforms-2\files-2.1\f7225bb92a75ff1b589a9b2496a7f582\WD260Android\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\david\.gradle\caches\transforms-2\files-2.1\db741089a22b19c660ad6fbefeb526e8\swiperefreshlayout-1.1.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\david\.gradle\caches\transforms-2\files-2.1\3ace96a4029172a3d943212dbae0169a\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\37ec02f661e3547c5499ecdfd9f3cd1f\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\b0149f4c947c05b760f5cf06ab6d8060\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\8d8ddb8800374545c224b77b34d0f1a2\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\dd07e922b5233b833d82ee834e6becf7\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\beed28e19d4f55ab2c17aff66e0bc400\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\e0d80e5c178a0db065288a448fc598ef\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\4336eb59d7e582316997572d66343b15\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\add2bdb41de46d90e5d3bd4e75929820\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\2bf200c3ed6f794fd90e7a7e5e0ea6de\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\daa47187fb0f0a7c419d1b10e1677cdd\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\0554424e228349ffc3db0700d1324aa1\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\bad233a64070d55cab9a83b26afbf154\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\7acef2a7bfef3795312317efec15d83e\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1-4348
+INJECTED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1-4348
+INJECTED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1-4348
+	package
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:117-143
+		INJECTED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml
+		INJECTED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:144-173
+		INJECTED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml
+		INJECTED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:70-116
+	xmlns:android
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:174-197
+		INJECTED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml
+		INJECTED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml
+	android:installLocation
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:198-228
+application
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:229-3974
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:483-526
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:304-336
+	android:debuggable
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:527-552
+	android:resizeableActivity
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:413-446
+	android:largeHeap
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:387-411
+	android:icon
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:337-386
+	android:usesCleartextTraffic
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:447-482
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:242-303
+activity#com.mrdavis.test.wdgen.GWDPtest$WDLanceur
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:553-961
+	android:label
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:604-636
+	android:configChanges
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:706-808
+	android:theme
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:637-705
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:563-603
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:809-950
+action#android.intent.action.MAIN
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:824-875
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:832-873
+category#android.intent.category.LAUNCHER
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:875-934
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:885-932
+activity#com.mrdavis.test.wdgen.GWDFWIN_inico$WDActiviteFenetre
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:961-1209
+	android:hardwareAccelerated
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1172-1207
+	android:configChanges
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1025-1134
+	android:theme
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1135-1171
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:971-1024
+activity#com.mrdavis.test.wdgen.GWDFWIN_login$WDActiviteFenetre
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1209-1457
+	android:hardwareAccelerated
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1420-1455
+	android:configChanges
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1273-1382
+	android:theme
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1383-1419
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1219-1272
+activity#com.mrdavis.test.wdgen.GWDFWIN_testselect$WDActiviteFenetre
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1457-1710
+	android:hardwareAccelerated
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1673-1708
+	android:configChanges
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1526-1635
+	android:theme
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1636-1672
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1467-1525
+activity#com.mrdavis.test.wdgen.GWDFWIN_paginarecibo$WDActiviteFenetre
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1710-1965
+	android:hardwareAccelerated
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1928-1963
+	android:configChanges
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1781-1890
+	android:theme
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1891-1927
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1720-1780
+uses-library#org.apache.http.legacy
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1965-2043
+	android:required
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2017-2041
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:1979-2016
+activity#fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2043-2272
+	tools:node
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2250-2270
+	xmlns:android
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2053-2111
+	android:theme
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2181-2249
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2112-2180
+activity#fr.pcsoft.wdjava.core.erreur.report.WDErrorReportActivity
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2272-2493
+	tools:node
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2471-2491
+	xmlns:android
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2282-2340
+	android:theme
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2414-2470
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2341-2413
+provider#androidx.core.content.FileProvider
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2493-2861
+	tools:node
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2727-2747
+	android:grantUriPermissions
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2692-2726
+	android:authorities
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2612-2666
+	android:exported
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2667-2691
+	xmlns:android
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2503-2561
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2562-2611
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2748-2850
+	android:resource
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2810-2848
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2759-2809
+receiver#fr.pcsoft.wdjava.core.utils.WDAppUtils$APKInstallBroadcastReceiver
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2861-3059
+	tools:node
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3037-3057
+	android:exported
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3012-3036
+	xmlns:android
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2871-2929
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:2930-3011
+activity#fr.pcsoft.wdjava.ui.searchbar.WDSearchActivity
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3059-3424
+	tools:node
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3223-3243
+	android:label
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3190-3222
+	xmlns:android
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3069-3127
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3128-3189
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3244-3328
+action#android.intent.action.SEARCH
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3259-3312
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3267-3310
+meta-data#android.app.searchable
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3328-3413
+	android:resource
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3377-3411
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3339-3376
+provider#fr.pcsoft.wdjava.ui.searchbar.WDSearchHistory
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3424-3643
+	tools:node
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3621-3641
+	android:authorities
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3579-3620
+	android:exported
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3554-3578
+	xmlns:android
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3434-3492
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3493-3553
+service#fr.pcsoft.wdjava.core.service.WDServiceLocal
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3643-3713
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3652-3711
+meta-data#fr.pcsoft.first_window_name
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3713-3799
+	android:value
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3767-3797
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3724-3766
+meta-data#fr.pcsoft.splash_orientation_phone
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3799-3879
+	android:value
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3860-3877
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3810-3859
+meta-data#fr.pcsoft.splash_orientation_tablet
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3879-3960
+	android:value
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3941-3958
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3890-3940
+uses-sdk
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3974-4042
+INJECTED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3974-4042
+MERGED from [WD260Android.aar] C:\Users\david\.gradle\caches\transforms-2\files-2.1\f7225bb92a75ff1b589a9b2496a7f582\WD260Android\AndroidManifest.xml:7:5-9:41
+MERGED from [WD260Android.aar] C:\Users\david\.gradle\caches\transforms-2\files-2.1\f7225bb92a75ff1b589a9b2496a7f582\WD260Android\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\e515d40e627c4e0412a7c5fa3f288da9\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\david\.gradle\caches\transforms-2\files-2.1\db741089a22b19c660ad6fbefeb526e8\swiperefreshlayout-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\david\.gradle\caches\transforms-2\files-2.1\db741089a22b19c660ad6fbefeb526e8\swiperefreshlayout-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\david\.gradle\caches\transforms-2\files-2.1\3ace96a4029172a3d943212dbae0169a\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\david\.gradle\caches\transforms-2\files-2.1\3ace96a4029172a3d943212dbae0169a\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\37ec02f661e3547c5499ecdfd9f3cd1f\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\37ec02f661e3547c5499ecdfd9f3cd1f\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\b0149f4c947c05b760f5cf06ab6d8060\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\b0149f4c947c05b760f5cf06ab6d8060\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\8d8ddb8800374545c224b77b34d0f1a2\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\8d8ddb8800374545c224b77b34d0f1a2\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\dd07e922b5233b833d82ee834e6becf7\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\dd07e922b5233b833d82ee834e6becf7\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\beed28e19d4f55ab2c17aff66e0bc400\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\beed28e19d4f55ab2c17aff66e0bc400\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\e0d80e5c178a0db065288a448fc598ef\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\e0d80e5c178a0db065288a448fc598ef\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\4336eb59d7e582316997572d66343b15\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\4336eb59d7e582316997572d66343b15\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\add2bdb41de46d90e5d3bd4e75929820\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\add2bdb41de46d90e5d3bd4e75929820\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\2bf200c3ed6f794fd90e7a7e5e0ea6de\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\2bf200c3ed6f794fd90e7a7e5e0ea6de\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\daa47187fb0f0a7c419d1b10e1677cdd\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\daa47187fb0f0a7c419d1b10e1677cdd\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\0554424e228349ffc3db0700d1324aa1\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\0554424e228349ffc3db0700d1324aa1\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\bad233a64070d55cab9a83b26afbf154\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\bad233a64070d55cab9a83b26afbf154\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\7acef2a7bfef3795312317efec15d83e\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\7acef2a7bfef3795312317efec15d83e\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\david\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3974-4042
+	android:targetSdkVersion
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4011-4040
+	android:minSdkVersion
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:3984-4010
+		INJECTED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml
+		INJECTED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml
+supports-screens
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4042-4201
+	android:largeScreens
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4117-4144
+	android:smallScreens
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4060-4087
+	android:normalScreens
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4088-4116
+	android:xlargeScreens
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4145-4173
+	android:anyDensity
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4174-4199
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4201-4276
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4218-4274
+uses-permission#android.permission.INTERNET
+ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4276-4337
+	android:name
+		ADDED from D:\My Mobile Projects\test\Android\dbg\AndroidManifest.xml:2:4293-4335
